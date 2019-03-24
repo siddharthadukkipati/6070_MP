@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "358986665147",
+    "firebase_url": "https://galvanic-pulsar-169804.firebaseio.com",
+    "project_id": "galvanic-pulsar-169804",
+    "storage_bucket": "galvanic-pulsar-169804.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:358986665147:android:792515cdabd54ba2",
+        "android_client_info": {
+          "package_name": "com.example.eventpolling"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "358986665147-2s8vhvc25tgt1rr2uglh16ro72lj5ocs.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.eventpolling",
+            "certificate_hash": "918a6d97d6cadb8d97bed02990f2afe16712f519"
+          }
+        },
+        {
+          "client_id": "358986665147-r3s0e9kl3ua7g76daas2ide45bjifdae.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBnV0qUIuAtdtynFRD2JtKjK6FHuUZCuW0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "358986665147-r3s0e9kl3ua7g76daas2ide45bjifdae.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
